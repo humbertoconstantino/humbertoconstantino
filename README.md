@@ -7,7 +7,7 @@ Mobile Developer
 
 #### Skills: 
 
-💻 React Native ♥, Ionic, Python.
+💻 React Native , Ionic, Python.
 
 <h1 align="center">
 <img alt="Humberto Constantino" src="https://github-readme-stats.codestackr.vercel.app/api?username=humbertoconstantino&show_icons=true&hide_border=true&theme=dark" />
