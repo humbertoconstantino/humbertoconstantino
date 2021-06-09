@@ -7,7 +7,7 @@ Angular developer
 
 #### Skills: 
 
-💻 SPA, Typescript, Html, CSS, Django 2.2, Python, MySql, Postgres, Material Design.
+💻 SPA, Typescript, Html, CSS,  Material Design.
 
 <h1 align="center">
 <img alt="Humberto Constantino" src="https://github-readme-stats.codestackr.vercel.app/api?username=humbertoconstantino&show_icons=true&hide_border=true&theme=dark" />
